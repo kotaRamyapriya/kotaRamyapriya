@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+RamyaPriya!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
 <!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> -->
 <!-- <h1 align="center"> 😇(Hello everyone) 👋</h1> -->
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">A passionate Java Backend Developer</h3>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"> -->
                                                        
