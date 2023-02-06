@@ -27,8 +27,6 @@
 - ⚡ Fun fact: I use tabs over spaces  
 
 
-- 📫 How to reach me: ...**kramyapriya58@gmail.com**
-
 - My Portfolio: **https://kotaramyapriya.github.io/**
 
 
